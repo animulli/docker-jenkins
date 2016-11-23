@@ -1,4 +1,4 @@
-FROM jenkins:2.19.1
+FROM jenkins:2.19.3
 
 # Suppress app installation warnings
 ENV DEBIAN_FRONTEND=noninteractive
